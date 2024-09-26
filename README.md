@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="20%" alt="<code>❯ REPLACE-ME</code>-logo">
 </p>
 <p align="center">
-    <h1 align="center"><code>❯ REPLACE-ME</code></h1>
-</p>
-<p align="center">
     <em>Empowering Conversations, One Model at a Time!" This slogan reflects the projects commitment to enhancing conversational AI through user-defined customization and systematic integration of diverse models, all while focusing on empathetic and engaging interactions.</em>
 </p>
 <p align="center">
