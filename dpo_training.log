@@ -1,0 +1,261 @@
+2024-09-17 19:10:01,010 - INFO - Starting DPO fine-tuning at 2024-09-17 19:10:01.010021 for model type: llama3
+2024-09-17 19:10:01,010 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 19:10:01,529 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 19:10:02,172 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:10:05,575 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:10:08,697 - INFO - Preparing dataset from local file: dpo_dataset.jso
+2024-09-17 19:10:08,697 - INFO - Loading dataset from local file: dpo_dataset.jso
+2024-09-17 19:10:20,495 - INFO - Starting DPO fine-tuning at 2024-09-17 19:10:20.495890 for model type: llama3
+2024-09-17 19:10:20,496 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 19:10:21,013 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 19:10:21,634 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:10:25,179 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:10:28,343 - INFO - Preparing dataset from local file: dpo_dataset.json
+2024-09-17 19:10:28,343 - INFO - Loading dataset from local file: dpo_dataset.json
+2024-09-17 19:10:28,433 - INFO - Setting up DPO Trainer
+2024-09-17 19:10:32,836 - INFO - Starting training
+2024-09-17 19:12:37,343 - INFO - Starting DPO fine-tuning at 2024-09-17 19:12:37.343606 for model type: llama3
+2024-09-17 19:12:37,343 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 19:12:37,858 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 19:12:38,486 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:13:07,813 - INFO - Starting DPO fine-tuning at 2024-09-17 19:13:07.813527 for model type: llama3
+2024-09-17 19:13:07,813 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 19:13:08,330 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 19:13:08,947 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:13:12,219 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 19:13:15,272 - INFO - Preparing dataset from local file: dpo_dataset.json
+2024-09-17 19:13:15,272 - INFO - Loading dataset from local file: dpo_dataset.json
+2024-09-17 19:13:15,363 - INFO - Setting up DPO Trainer
+2024-09-17 19:13:20,008 - INFO - Starting training
+2024-09-17 20:13:19,245 - INFO - Saving fine-tuned model
+2024-09-17 20:13:19,860 - INFO - DPO fine-tuning completed at 2024-09-17 20:13:19.860605. Total duration: 1:00:12.047078
+2024-09-17 20:13:22,589 - INFO - Starting DPO fine-tuning at 2024-09-17 20:13:22.589490 for model type: llama3
+2024-09-17 20:13:22,589 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 20:13:23,287 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 20:13:23,919 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 20:13:27,314 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 20:13:30,393 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-17 20:13:30,393 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-17 20:13:33,069 - INFO - Starting DPO fine-tuning at 2024-09-17 20:13:33.069478 for model type: llama3
+2024-09-17 20:13:33,069 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-17 20:13:33,547 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-17 20:13:34,180 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 20:13:37,585 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-17 20:13:40,709 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-17 20:13:40,710 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-17 20:13:40,795 - INFO - Setting up DPO Trainer
+2024-09-17 20:13:44,525 - INFO - Starting training
+2024-09-17 21:02:23,633 - INFO - Saving fine-tuned model
+2024-09-17 21:02:24,145 - INFO - DPO fine-tuning completed at 2024-09-17 21:02:24.145895. Total duration: 0:48:51.076417
+2024-09-18 05:59:09,285 - INFO - Starting DPO fine-tuning at 2024-09-18 05:59:09.285625 for model type: llama3
+2024-09-18 05:59:09,285 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 05:59:09,871 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 05:59:10,720 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 05:59:14,013 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 05:59:17,098 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-18 05:59:17,098 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-18 06:00:40,407 - INFO - Starting DPO fine-tuning at 2024-09-18 06:00:40.407770 for model type: llama3
+2024-09-18 06:00:40,407 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:00:40,991 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:00:41,679 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:00:45,077 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:00:48,131 - INFO - Preparing dataset from local file: rewritten_dataset_option1.json
+2024-09-18 06:00:48,131 - INFO - Loading dataset from local file: rewritten_dataset_option1.json
+2024-09-18 06:03:42,832 - INFO - Starting DPO fine-tuning at 2024-09-18 06:03:42.832724 for model type: llama3
+2024-09-18 06:03:42,832 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:03:43,433 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:03:44,126 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:03:47,521 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:03:50,786 - INFO - Preparing dataset from local file: facty-dataset.json
+2024-09-18 06:03:50,787 - INFO - Loading dataset from local file: facty-dataset.json
+2024-09-18 06:04:19,277 - INFO - Starting DPO fine-tuning at 2024-09-18 06:04:19.277920 for model type: llama3
+2024-09-18 06:04:19,278 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:04:19,864 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:04:20,489 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:04:23,962 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:04:27,450 - INFO - Preparing dataset from local file: facty-dataset.json
+2024-09-18 06:04:27,450 - INFO - Loading dataset from local file: facty-dataset.json
+2024-09-18 06:04:41,522 - INFO - Starting DPO fine-tuning at 2024-09-18 06:04:41.522732 for model type: llama3
+2024-09-18 06:04:41,522 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:04:42,073 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:04:42,695 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:04:46,102 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:04:49,205 - INFO - Preparing dataset from local file: facty-dataset.json
+2024-09-18 06:04:49,205 - INFO - Loading dataset from local file: facty-dataset.json
+2024-09-18 06:05:35,545 - INFO - Starting DPO fine-tuning at 2024-09-18 06:05:35.545333 for model type: llama3
+2024-09-18 06:05:35,545 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:05:36,131 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:05:36,793 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:05:40,100 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:05:43,194 - INFO - Preparing dataset from local file: facty-dataset.json
+2024-09-18 06:05:43,194 - INFO - Loading dataset from local file: facty-dataset.json
+2024-09-18 06:15:53,588 - INFO - Starting DPO fine-tuning at 2024-09-18 06:15:53.588369 for model type: llama3
+2024-09-18 06:15:53,588 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:15:54,112 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:15:54,759 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:15:58,169 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:16:01,309 - INFO - Preparing dataset from local file: facty-dataset.json
+2024-09-18 06:16:01,309 - INFO - Loading dataset from local file: facty-dataset.json
+2024-09-18 06:16:14,669 - INFO - Starting DPO fine-tuning at 2024-09-18 06:16:14.669847 for model type: llama3
+2024-09-18 06:16:14,669 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:16:15,268 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:16:15,982 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:16:19,731 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:16:22,903 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-18 06:16:22,903 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-18 06:16:22,919 - ERROR - The 'chosen' field in example at index 609 is not a string.
+2024-09-18 06:19:20,959 - INFO - Starting DPO fine-tuning at 2024-09-18 06:19:20.958990 for model type: llama3
+2024-09-18 06:19:20,959 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:19:21,510 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:19:22,132 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:19:25,445 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:19:28,555 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-18 06:19:28,556 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-18 06:19:28,573 - ERROR - The 'chosen' field in example at index 609 is not a string.
+2024-09-18 06:22:26,547 - INFO - Starting DPO fine-tuning at 2024-09-18 06:22:26.547148 for model type: llama3
+2024-09-18 06:22:26,547 - INFO - Loading base model: meta-llama/Meta-Llama-3.1-8B-Instruct with inferred model type: llama3
+2024-09-18 06:22:27,125 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-18 06:22:27,744 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:22:31,163 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-18 06:22:34,347 - INFO - Preparing dataset from local file: rewritten_dataset_option1.json
+2024-09-18 06:22:34,347 - INFO - Loading dataset from local file: rewritten_dataset_option1.json
+2024-09-18 06:22:35,040 - INFO - Setting up DPO Trainer
+2024-09-18 06:22:39,519 - INFO - Starting training
+2024-09-18 07:11:06,213 - INFO - Saving fine-tuned model
+2024-09-18 07:11:06,782 - INFO - DPO fine-tuning completed at 2024-09-18 07:11:06.782402. Total duration: 0:48:40.235254
+2024-09-19 08:33:17,604 - INFO - Starting DPO fine-tuning at 2024-09-19 08:33:17.604579 for model type: llama3
+2024-09-19 08:33:17,604 - INFO - Loading base model: meta-llama/Llama-2-13b-chat with inferred model type: llama3
+2024-09-19 08:34:35,252 - INFO - Starting DPO fine-tuning at 2024-09-19 08:34:35.252378 for model type: llama3
+2024-09-19 08:34:35,252 - INFO - Loading base model: meta-llama/Llama-2-13b-chat with inferred model type: llama3
+2024-09-19 08:51:33,593 - INFO - Starting DPO fine-tuning at 2024-09-19 08:51:33.593169 for model type: llama3
+2024-09-19 08:51:33,593 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama3
+2024-09-19 08:51:35,269 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-19 08:53:36,564 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-19 08:53:47,084 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-19 08:53:58,228 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-19 08:53:58,228 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-19 08:53:58,915 - INFO - Setting up DPO Trainer
+2024-09-19 08:54:03,664 - INFO - Starting training
+2024-09-19 08:57:39,183 - INFO - Starting DPO fine-tuning at 2024-09-19 08:57:39.183455 for model type: llama3
+2024-09-19 08:57:39,183 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama3
+2024-09-19 08:57:39,527 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-19 08:58:21,238 - INFO - Starting DPO fine-tuning at 2024-09-19 08:58:21.238670 for model type: llama3
+2024-09-19 08:58:21,238 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama3
+2024-09-19 08:58:21,622 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-19 08:58:22,333 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-19 08:58:32,784 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-19 08:58:42,973 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-19 08:58:42,973 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-19 08:58:43,693 - INFO - Setting up DPO Trainer
+2024-09-19 08:58:48,559 - INFO - Starting training
+2024-09-19 10:33:07,912 - INFO - Saving fine-tuned model
+2024-09-19 10:33:09,624 - INFO - DPO fine-tuning completed at 2024-09-19 10:33:09.623984. Total duration: 1:34:48.385314
+2024-09-20 07:10:30,819 - INFO - Starting DPO fine-tuning at 2024-09-20 07:10:30.819112 for model type: llama2
+2024-09-20 07:10:30,819 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 07:10:31,183 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 07:10:31,878 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:10:42,730 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:10:53,430 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 07:10:53,430 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 07:10:54,097 - INFO - Setting up DPO Trainer
+2024-09-20 07:10:59,430 - INFO - Starting training
+2024-09-20 07:12:27,509 - INFO - Starting DPO fine-tuning at 2024-09-20 07:12:27.509797 for model type: llama2
+2024-09-20 07:12:27,509 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 07:12:27,879 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 07:12:28,495 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:12:39,770 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:12:50,299 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 07:12:50,300 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 07:12:50,935 - INFO - Setting up DPO Trainer
+2024-09-20 07:12:56,135 - INFO - Starting training
+2024-09-20 07:16:15,741 - INFO - Starting DPO fine-tuning at 2024-09-20 07:16:15.741111 for model type: llama2
+2024-09-20 07:16:15,741 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 07:16:16,113 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 07:16:16,758 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:16:28,205 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:16:39,838 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 07:16:39,839 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 07:16:40,491 - INFO - Setting up DPO Trainer
+2024-09-20 07:16:45,735 - INFO - Starting training
+2024-09-20 07:17:41,873 - INFO - Starting DPO fine-tuning at 2024-09-20 07:17:41.873345 for model type: llama2
+2024-09-20 07:17:41,873 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 07:17:42,241 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 07:17:42,897 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:17:53,882 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:18:04,884 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 07:18:04,885 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 07:18:05,519 - INFO - Setting up DPO Trainer
+2024-09-20 07:18:10,936 - INFO - Starting training
+2024-09-20 07:29:08,309 - INFO - Starting DPO fine-tuning at 2024-09-20 07:29:08.309870 for model type: llama2
+2024-09-20 07:29:08,310 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 07:29:08,711 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 07:29:09,440 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:29:20,550 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 07:29:31,317 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 07:29:31,317 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 07:29:31,952 - INFO - Setting up DPO Trainer
+2024-09-20 07:29:37,144 - INFO - Starting training
+2024-09-20 08:02:06,544 - INFO - Starting DPO fine-tuning at 2024-09-20 08:02:06.544229 for model type: llama2
+2024-09-20 08:02:06,544 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 08:02:06,982 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 08:02:07,708 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 08:02:18,889 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 08:02:30,025 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 08:02:30,025 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 08:02:30,664 - INFO - Setting up DPO Trainer
+2024-09-20 08:02:36,131 - INFO - Starting training
+2024-09-20 12:43:16,126 - INFO - Saving fine-tuned model
+2024-09-20 12:43:17,741 - INFO - DPO fine-tuning completed at 2024-09-20 12:43:17.741662. Total duration: 4:41:11.197433
+2024-09-20 13:10:08,515 - INFO - Starting DPO fine-tuning at 2024-09-20 13:10:08.515147 for model type: llama2
+2024-09-20 13:10:08,515 - INFO - Loading base model: meta-llama/Llama-2-13b-hf with inferred model type: llama2
+2024-09-20 13:10:08,906 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 13:10:10,132 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 13:11:16,856 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 13:11:28,790 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 13:11:28,790 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 13:11:29,471 - INFO - Setting up DPO Trainer
+2024-09-20 13:11:33,980 - INFO - Starting training
+2024-09-20 13:14:23,931 - INFO - Starting DPO fine-tuning at 2024-09-20 13:14:23.931205 for model type: llama2
+2024-09-20 13:14:23,931 - INFO - Loading base model: meta-llama/Llama-2-13b-chat-hf with inferred model type: llama2
+2024-09-20 13:14:25,325 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 13:16:38,981 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 13:16:50,673 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 13:17:02,271 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 13:17:02,271 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 13:17:02,920 - INFO - Setting up DPO Trainer
+2024-09-20 13:17:07,415 - INFO - Starting training
+2024-09-20 14:03:25,751 - INFO - Saving fine-tuned model
+2024-09-20 14:03:27,349 - INFO - DPO fine-tuning completed at 2024-09-20 14:03:27.349732. Total duration: 0:49:03.418527
+2024-09-20 15:10:11,346 - INFO - Starting DPO fine-tuning at 2024-09-20 15:10:11.346312 for model type: llama2
+2024-09-20 15:10:11,346 - INFO - Loading base model: meta-llama/Llama-2-13b-chat-hf with inferred model type: llama2
+2024-09-20 15:10:11,692 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 15:10:12,343 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 15:10:24,072 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 15:10:34,882 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-20 15:10:34,882 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-20 15:10:35,620 - INFO - Setting up DPO Trainer
+2024-09-20 15:10:40,185 - INFO - Starting training
+2024-09-20 15:53:11,390 - INFO - Saving fine-tuned model
+2024-09-20 15:53:12,996 - INFO - DPO fine-tuning completed at 2024-09-20 15:53:12.996292. Total duration: 0:43:01.649980
+2024-09-20 16:29:07,603 - INFO - Starting DPO fine-tuning at 2024-09-20 16:29:07.603191 for model type: llama2
+2024-09-20 16:29:07,603 - INFO - Loading base model: meta-llama/Llama-2-7b-chat-hf with inferred model type: llama2
+2024-09-20 16:29:09,042 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 16:30:19,010 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 16:30:25,223 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 16:30:31,279 - INFO - Preparing dataset from local file: facty_dataset.json
+2024-09-20 16:30:31,279 - INFO - Loading dataset from local file: facty_dataset.json
+2024-09-20 16:30:32,012 - INFO - Setting up DPO Trainer
+2024-09-20 16:30:36,346 - INFO - Starting training
+2024-09-20 16:54:58,616 - INFO - Saving fine-tuned model
+2024-09-20 16:55:00,040 - INFO - DPO fine-tuning completed at 2024-09-20 16:55:00.040097. Total duration: 0:25:52.436906
+2024-09-20 16:55:02,815 - INFO - Starting DPO fine-tuning at 2024-09-20 16:55:02.815764 for model type: llama2
+2024-09-20 16:55:02,815 - INFO - Loading base model: meta-llama/Llama-2-7b-chat-hf with inferred model type: llama2
+2024-09-20 16:55:03,139 - INFO - Tokenizer does not have a pad_token. Setting pad_token to eos_token.
+2024-09-20 16:55:03,831 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 16:55:10,007 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2024-09-20 16:55:15,684 - INFO - Preparing dataset from local file: happy_dataset.json
+2024-09-20 16:55:15,684 - INFO - Loading dataset from local file: happy_dataset.json
+2024-09-20 16:55:16,339 - INFO - Setting up DPO Trainer
+2024-09-20 16:55:20,693 - INFO - Starting training
+2024-09-20 17:21:54,132 - INFO - Saving fine-tuned model
+2024-09-20 17:21:55,375 - INFO - DPO fine-tuning completed at 2024-09-20 17:21:55.375373. Total duration: 0:26:52.559609

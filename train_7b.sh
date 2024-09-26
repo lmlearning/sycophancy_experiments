@@ -1,0 +1,3 @@
+python3 dpo_trainer.py --base_model meta-llama/Meta-Llama-3.1-8B-Instruct --new_model DPO-Llama3-8B-Instruct-hh-rhlf --data_file dpo_dataset.json --num_samples 4000 --max_steps 1000
+python3 dpo_trainer.py --base_model meta-llama/Meta-Llama-3.1-8B-Instruct --new_model DPO-Llama3-8B-Instruct-facty --data_file facty_dataset.json --num_samples 4000 --max_steps 1000
+python3 dpo_trainer.py --base_model meta-llama/Meta-Llama-3.1-8B-Instruct --new_model DPO-Llama3-8B-Instruct-happy --data_file happy_dataset.json --num_samples 4000 --max_steps 1000
